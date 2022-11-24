@@ -1,33 +1,39 @@
 {
-  "expo": {
-    "name": "chocolatemobileclient",
-    "slug": "chocolatemobileclient",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "expo": {
+        "name": "Chocolate",
+        "slug": "chocolatemobileclient",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/logo.png",
+        "userInterfaceStyle": "dark",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/logo.png",
+                "backgroundColor": "#FFFFFF"
+            },
+            "package": "com.imprevisible.chocolatemobileclient"
+        },
+        "web": {
+            "favicon": "./assets/logo.png"
+        },
+        "extra": {
+            "eas": {
+                "projectId": "1ec079ec-54ad-4921-934d-ffb0bcf2bea2"
+            }
+        }
     }
-  }
 }
