@@ -2,6 +2,11 @@
 
 This is the mobile client for the Chocolate project. It is a mobile app that allows users to access to there Chocolate server without the awfull interface of the android web browser.
 
+### Warning
+
+If you use Chocolate v5.0.0, the media can probably crash, you have to reduce the quality, 720p work fine for me.
+We are working on a fix.
+
 ## How to install
 * Download the latest release from the [releases page](https://github.com/ChocolateApp/ChocolateMobileClient/releases/latest)
 * Install the apk on your android device

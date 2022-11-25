@@ -12,6 +12,7 @@ export default function OpenLink({url}) {
                     style={{flex: 1}}
                     originWhitelist={['*']}
                     javaScriptEnabled={true}
+                    allowsFullscreenVideo
                     source={{ uri: url }} />
         )}
         </View>
