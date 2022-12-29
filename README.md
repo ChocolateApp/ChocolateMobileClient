@@ -15,7 +15,7 @@ We are working on a fix.
 
 ## Built With
 Chocolate Mobile Client is actually made with this technologies:
-* ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg" alt="React Native" style="display: flex; align-items: center;">
 
 ## Contributing
 Contributions are welcome. Please open an issue or a pull request.
